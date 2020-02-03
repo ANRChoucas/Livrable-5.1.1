@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.tei-c.org/ns/1.0 service-POS-TT.xsd">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><!-- title of the resource --></title>
+            </titleStmt>
+            <publicationStmt>
+                <p><!-- Information about distribution of the resource --></p>
+            </publicationStmt>
+            <sourceDesc>
+                <p><!-- Information about source from which the resource derives --></p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><s><w lemma="à" type="P">À</w><w lemma="null" type="NPP">Pralognan</w><w
+                        lemma="suivre" type="VINF">suivre</w><w lemma="la" type="DET">la</w><w
+                        lemma="route" type="NC">route</w><w lemma="entre" type="P">entre</w><w
+                        lemma="le" type="DET">l'</w><w lemma="hôtel" type="NC">hôtel</w><w
+                        lemma="de" type="P">de</w><w lemma="la" type="DET">la</w><w lemma="null"
+                        type="NPP">Vanoise</w><w lemma="et" type="CC">et</w><w lemma="celui"
+                        type="PRO">celui</w><w lemma="de" type="P+D">du</w><w lemma="petit"
+                        type="ADJ">Petit</w><w lemma="Mont" type="NPP">Mont</w><w lemma="null"
+                        type="NPP">Blanc</w><w lemma="et" type="CC">et</w><w lemma="continuer"
+                        type="VINF">continuer</w><w lemma="tout" type="DET">tout</w><w lemma="droit"
+                        type="NC">droit</w><w lemma="." type="PONCT">.</w><w lemma="passer"
+                        type="VINF">Passer</w><w lemma="les" type="DET">les</w><w lemma="bourg"
+                        type="NC">bourgs</w><w lemma="de" type="P">de</w><w lemma="null" type="NPP"
+                        >Barioz</w><w lemma="et" type="CC">et</w><w lemma="de" type="P">de</w><w
+                        lemma="null" type="NPP">Bieux</w><w lemma="." type="PONCT">.</w><w
+                        lemma="on" type="CLS">On</w><w lemma="tomber" type="V">tombe</w><w
+                        lemma="alors" type="ADV">alors</w><w lemma="sur" type="P">sur</w><w
+                        lemma="le" type="DET">le</w><w lemma="null" type="NC">GR55</w><w lemma="à"
+                        type="P">à</w><w lemma="suivre" type="VINF">suivre</w><w lemma="jusque"
+                        type="P">jusqu'</w><w lemma="à" type="P+D">au</w><w lemma="hameau" type="NC"
+                        >hameau</w><w lemma="de" type="P+D">des</w><w lemma="null" type="NC"
+                        >Fontanettes</w><w lemma="." type="PONCT">.</w><w lemma="le" type="DET"
+                        >Le</w><w lemma="sentier" type="NC">sentier</w><w lemma="suivre" type="V"
+                        >suit</w><w lemma="par" type="P">par</w><w lemma="la" type="DET">la</w><w
+                        lemma="gauche" type="NC">gauche</w><w lemma="un" type="DET">un</w><w
+                        lemma="télésiège" type="NC">télésiège</w><w lemma="jusque" type="P"
+                        >jusqu'</w><w lemma="à" type="P+D">au</w><w lemma="refuge" type="NC"
+                        >refuge</w><w lemma="de" type="P+D">des</w><w lemma="null" type="NC"
+                        >Barmettes</w><w lemma="." type="PONCT">.</w><w lemma="poursuivre"
+                        type="VINF">Poursuivre</w><w lemma="par" type="P">par</w><w lemma="le"
+                        type="DET">le</w><w lemma="pont" type="NC">pont</w><w lemma="de" type="P"
+                        >de</w><w lemma="la" type="DET">la</w><w lemma="null" type="NC">Glière</w><w
+                        lemma="." type="PONCT">.</w><w lemma="arriver" type="VPP">Arrivé</w><w
+                        lemma="près" type="ADV">près</w><w lemma="des" type="DET">des</w><w
+                        lemma="chalet" type="NC">chalets</w><w lemma="de" type="P">de</w><w
+                        lemma="la" type="DET">la</w><w lemma="null" type="NPP">Glière</w><w
+                        lemma="," type="PONCT">,</w><w lemma="ne" type="ADV">ne</w><w lemma="pas"
+                        type="ADV">pas</w><w lemma="prendre" type="VINF">prendre</w><w lemma="le"
+                        type="DET">le</w><w lemma="sentier" type="NC">sentier</w><w lemma="de"
+                        type="P">de</w><w lemma="droite" type="NC">droite</w><w lemma="qui"
+                        type="PROREL">qui</w><w lemma="mener" type="V">mène</w><w lemma="à"
+                        type="P+D">au</w><w lemma="null" type="NPP">Moriond</w><w lemma="mais"
+                        type="CC">mais</w><w lemma="filer" type="VINF">filer</w><w lemma="tout"
+                        type="DET">tout</w><w lemma="droit" type="NC">droit</w><w lemma="."
+                        type="PONCT">.</w><w lemma="plus" type="ADV">Plus</w><w lemma="loin"
+                        type="ADV">loin</w><w lemma="passer" type="VINF">passer</w><w lemma="sur"
+                        type="P">sur</w><w lemma="le" type="DET">le</w><w lemma="pont" type="NC"
+                        >pont</w><w lemma="de" type="P+D">du</w><w lemma="null" type="NPP"
+                        >Chanton</w><w lemma="." type="PONCT">.</w><w lemma="peu" type="ADV"
+                        >Peu</w><w lemma="après" type="ADV">après</w><w lemma="," type="PONCT"
+                        >,</w><w lemma="on" type="CLS">on</w><w lemma="parvenir" type="V"
+                        >parvient</w><w lemma="à" type="P+D">au</w><w lemma="lac" type="NC"
+                        >lac</w><w lemma="de" type="P+D">des</w><w lemma="vache" type="NC"
+                        >Vaches</w><w lemma="que" type="PROREL">que</w><w lemma="le" type="DET"
+                        >l'</w><w lemma="on" type="CLS">on</w><w lemma="traverser" type="V"
+                        >traverse</w><w lemma="sur" type="P">sur</w><w lemma="des" type="DET"
+                        >des</w><w lemma="rocher" type="NC">rochers</w><w lemma="." type="PONCT"
+                        >.</w></s></p>
+        </body>
+    </text>
+</TEI>

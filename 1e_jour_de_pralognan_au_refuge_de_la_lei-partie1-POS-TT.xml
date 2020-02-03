@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.tei-c.org/ns/1.0 service-POS-TT.xsd">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title></title>  
+            </titleStmt>
+            <publicationStmt>
+                <p><!-- Information about distribution of the resource --></p>
+            </publicationStmt>
+            <sourceDesc>
+                <p><!-- Information about source from which the resource derives --></p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><s><w lemma="à" type="PRP">À</w><w lemma="null" type="NAM">Pralognan</w><w
+                        lemma="suivre" type="VER:infi">suivre</w><w lemma="le" type="DET:ART"
+                        >la</w><w lemma="route" type="NOM">route</w><w lemma="entre" type="PRP"
+                        >entre</w><w lemma="le" type="DET:ART">l'</w><w lemma="hôtel" type="NOM"
+                        >hôtel</w><w lemma="de" type="PRP">de</w><w lemma="le" type="DET:ART"
+                        >la</w><w lemma="Vanoise" type="NAM">Vanoise</w><w lemma="et" type="KON"
+                        >et</w><w lemma="celui" type="PRO:DEM">celui</w><w lemma="du" type="PRP:det"
+                        >du</w><w lemma="Petit" type="NAM">Petit</w><w lemma="Mont" type="NAM"
+                        >Mont</w><w lemma="Blanc" type="NAM">Blanc</w><w lemma="et" type="KON"
+                        >et</w><w lemma="continuer" type="VER:infi">continuer</w><w lemma="tout"
+                        type="PRO:IND">tout</w><w lemma="droit" type="NOM">droit</w><w lemma="."
+                        type="SENT">.</w><w lemma="passer" type="VER:infi">Passer</w><w lemma="le"
+                        type="DET:ART">les</w><w lemma="bourg" type="NOM">bourgs</w><w lemma="de"
+                        type="PRP">de</w><w lemma="null" type="NAM">Barioz</w><w lemma="et"
+                        type="KON">et</w><w lemma="de" type="PRP">de</w><w lemma="null" type="NAM"
+                        >Bieux</w><w lemma="." type="SENT">.</w><w lemma="on" type="PRO:PER"
+                        >On</w><w lemma="tomber" type="VER:pres">tombe</w><w lemma="alors"
+                        type="ADV">alors</w><w lemma="sur" type="PRP">sur</w><w lemma="le"
+                        type="DET:ART">le</w><w lemma="null" type="NOM">GR55</w><w lemma="à"
+                        type="PRP">à</w><w lemma="suivre" type="VER:infi">suivre</w><w
+                        lemma="jusque" type="PRP">jusqu'</w><w lemma="au" type="PRP:det">au</w><w
+                        lemma="hameau" type="NOM">hameau</w><w lemma="du" type="PRP:det">des</w><w
+                        lemma="null" type="NAM">Fontanettes</w><w lemma="." type="SENT">.</w><w
+                        lemma="le" type="DET:ART">Le</w><w lemma="sentier" type="NOM">sentier</w><w
+                        lemma="suivre" type="VER:pres">suit</w><w lemma="par" type="PRP">par</w><w
+                        lemma="le" type="DET:ART">la</w><w lemma="gauche" type="ADJ">gauche</w><w
+                        lemma="un" type="DET:ART">un</w><w lemma="télésiège" type="NOM"
+                        >télésiège</w><w lemma="jusque" type="PRP">jusqu'</w><w lemma="au"
+                        type="PRP:det">au</w><w lemma="refuge" type="NOM">refuge</w><w lemma="du"
+                        type="PRP:det">des</w><w lemma="null" type="NAM">Barmettes</w><w lemma="."
+                        type="SENT">.</w><w lemma="poursuivre" type="VER:infi">Poursuivre</w><w
+                        lemma="par" type="PRP">par</w><w lemma="le" type="DET:ART">le</w><w
+                        lemma="pont" type="NOM">pont</w><w lemma="de" type="PRP">de</w><w lemma="le"
+                        type="DET:ART">la</w><w lemma="null" type="NAM">Glière</w><w lemma="."
+                        type="SENT">.</w><w lemma="arriver" type="VER:pper">Arrivé</w><w
+                        lemma="près" type="ADV">près</w><w lemma="du" type="PRP:det">des</w><w
+                        lemma="chalet" type="NOM">chalets</w><w lemma="de" type="PRP">de</w><w
+                        lemma="le" type="DET:ART">la</w><w lemma="null" type="NAM">Glière</w><w
+                        lemma="," type="PUN">,</w><w lemma="ne" type="ADV">ne</w><w lemma="pas"
+                        type="ADV">pas</w><w lemma="prendre" type="VER:infi">prendre</w><w
+                        lemma="le" type="DET:ART">le</w><w lemma="sentier" type="NOM">sentier</w><w
+                        lemma="de" type="PRP">de</w><w lemma="droit" type="NOM">droite</w><w
+                        lemma="qui" type="PRO:REL">qui</w><w lemma="mener" type="VER:pres"
+                        >mène</w><w lemma="au" type="PRP:det">au</w><w lemma="null" type="NAM"
+                        >Moriond</w><w lemma="mais" type="KON">mais</w><w lemma="filer"
+                        type="VER:infi">filer</w><w lemma="tout" type="PRO:IND">tout</w><w
+                        lemma="droit" type="NOM">droit</w><w lemma="." type="SENT">.</w><w
+                        lemma="plus" type="ADV">Plus</w><w lemma="loin" type="ADV">loin</w><w
+                        lemma="passer" type="VER:infi">passer</w><w lemma="sur" type="PRP">sur</w><w
+                        lemma="le" type="DET:ART">le</w><w lemma="pont" type="NOM">pont</w><w
+                        lemma="du" type="PRP:det">du</w><w lemma="null" type="NAM">Chanton</w><w
+                        lemma="." type="SENT">.</w><w lemma="peu" type="ADV">Peu</w><w lemma="après"
+                        type="ADV">après</w><w lemma="," type="PUN">,</w><w lemma="on"
+                        type="PRO:PER">on</w><w lemma="parvenir" type="VER:pres">parvient</w><w
+                        lemma="au" type="PRP:det">au</w><w lemma="lac" type="NOM">lac</w><w
+                        lemma="du" type="PRP:det">des</w><w lemma="vache" type="NOM">Vaches</w><w
+                        lemma="que" type="PRO:REL">que</w><w lemma="le" type="DET:ART">l'</w><w
+                        lemma="on" type="PRO:PER">on</w><w lemma="traverser" type="VER:pres"
+                        >traverse</w><w lemma="sur" type="PRP">sur</w><w lemma="du" type="PRP:det"
+                        >des</w><w lemma="rocher" type="NOM">rochers</w><w lemma="." type="SENT"
+                        >.</w></s></p>
+        </body>
+    </text>
+</TEI>
